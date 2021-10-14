@@ -9,6 +9,7 @@
 	<form action="">
 		<p>Name: First Name <input type="text"></p>
 		<p>Name: Last Name <input type="text"></p>
+		<p>Name: Other Name <input type="text"></p>
 		<button>Submit</button>
 	</form>
 </body>
